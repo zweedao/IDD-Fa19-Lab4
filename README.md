@@ -10,7 +10,7 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 **Link to a video of your virbation motor**
 
-![Vibrator video](/vibrator.MOV)
+[Vibrator video](/vibrator.MOV)
 
 ## Part B. Actuating Servo motors
 
