@@ -46,6 +46,8 @@ for(pos = 0; pos <= 180; pos += 1) // goes from 0 degrees to 180 degrees
 
 **Include a photo/movie of your raw circuit in action.**
 
+[Potential meter & servo video](/servo.MOV)
+
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
